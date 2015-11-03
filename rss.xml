@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Beguilling]]></title>
+        <description><![CDATA[Beguilling]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 Nov 2015 11:24:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Darth Jar Jar. What an interesting theory. ]]></title>
+            <description><![CDATA[<article><h1>Darth Jar Jar. What an interesting theory. </h1><p>True Sith Master and Supreme Leader of the galaxy.</p><img src="http://darthjarjar.com/wp-content/uploads/2013/09/Supreme-Leader-Sith-Master-Darth-Jar-Jar.jpg"></article>]]></description>
+            <link>http://darthjarjar.com/</link>
+            <guid isPermaLink="false">60393ad7-957d-4bf8-896d-4ccb8527f7e5</guid>
+            <pubDate>Tue, 03 Nov 2015 11:23:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

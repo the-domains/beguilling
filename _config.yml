@@ -1,0 +1,23 @@
+name: Beguilling
+favicon: null
+layout_spectrum: 0.8042536722496152
+typography_spectrum: 0.527957048965618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.05370343220420182
+  lightness: 0.2828017957508564
+  saturation: 0.30125455814413726
+  rhythmicContrast: 0.2996359011158347
+purpose: []

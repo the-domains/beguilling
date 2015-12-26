@@ -1,24 +1,36 @@
-name: Beguilling
-favicon: null
-layout_spectrum: 0.49206
-typography_spectrum: 0.527957048965618
 title: Beguilling - things that catch my interest
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3012545581441373
+  brandStrength: 0.05370343220420182
+  rhythmicContrast: 0.2996359011158347
+  brandColors: []
+  lightness: 0.2828017957508564
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Beguilling
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.05370343220420182
-  lightness: 0.2828017957508564
-  saturation: 0.30125455814413726
-  rhythmicContrast: 0.2996359011158347
-purpose: []
+typography_spectrum: 0.527957048965618
+layout_spectrum: 0.2475832
